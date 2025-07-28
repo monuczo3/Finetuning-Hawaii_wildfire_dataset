@@ -1,1 +1,1 @@
-finetuning using wildlife dataset
+finetuning using Hawaii wildfire dataset
